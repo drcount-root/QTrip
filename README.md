@@ -8,7 +8,6 @@
 Some api endpoints => <ul>
                               <li><a href="https://qtrip-dynamic-tw.herokuapp.com/cities">https://qtrip-dynamic-tw.herokuapp.com/cities</a></li>
                               <li><a href="https://qtrip-dynamic-tw.herokuapp.com/adventures">https://qtrip-dynamic-tw.herokuapp.com/adventures</a></li>
-                              <li><a href="https://qtrip-dynamic-tw.herokuapp.com/reservations">https://qtrip-dynamic-tw.herokuapp.com/reservations</a></li>
                               <li><a href="https://qtrip-dynamic-tw.herokuapp.com/adventures/?city=${city}">https://qtrip-dynamic-tw.herokuapp.com/adventures/?city=${city}</a></li>
                               <br>
                               <ul>
@@ -21,7 +20,8 @@ Some api endpoints => <ul>
                                 <li>new-york</li>
                                 <li>paris</li>
                               </ul>
-                           </ul>
-
+                              <br>
+                                <li><a href="https://qtrip-dynamic-tw.herokuapp.com/reservations">https://qtrip-dynamic-tw.herokuapp.com/reservations</a></li>
+                      </ul>
 <br>
 Change the ${city} to city names given below to fetch the api requests
