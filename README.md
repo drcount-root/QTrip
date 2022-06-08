@@ -8,4 +8,5 @@
 Some api endpoints => <ul>
                               <li><a href="https://qtrip-dynamic-tw.herokuapp.com/cities">https://qtrip-dynamic-tw.herokuapp.com/cities</a></li>
                               <li><a href="https://qtrip-dynamic-tw.herokuapp.com/adventures">https://qtrip-dynamic-tw.herokuapp.com/adventures</a></li>
+                              <li><a href="https://qtrip-dynamic-tw.herokuapp.com/reservations">https://qtrip-dynamic-tw.herokuapp.com/reservations</a></li>
                            </ul>
