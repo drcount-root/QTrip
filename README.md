@@ -32,12 +32,12 @@ Deployed the website using <b>Netlify</b> and <b>Heroku</b>
 
 #### Live Site link => https://qtrip-tw.netlify.app
 
-#### Backend link => https://qtrip-dynamic-tw.herokuapp.com
+#### Backend link => https://qtrip-dynamic-ao2z.onrender.com
 
 Some api endpoints => <ul>
-                              <li><a href="https://qtrip-dynamic-tw.herokuapp.com/cities">https://qtrip-dynamic-tw.herokuapp.com/cities</a></li>
-                              <li><a href="https://qtrip-dynamic-tw.herokuapp.com/adventures">https://qtrip-dynamic-tw.herokuapp.com/adventures</a></li>
-                              <li><a href="https://qtrip-dynamic-tw.herokuapp.com/adventures/?city=${city}">https://qtrip-dynamic-tw.herokuapp.com/adventures/?city=${city}</a></li>
+                              <li><a href="https://qtrip-dynamic-ao2z.onrender.com/cities">https://qtrip-dynamic-ao2z.onrender.com/cities</a></li>
+                              <li><a href="https://qtrip-dynamic-ao2z.onrender.com/adventures">https://qtrip-dynamic-ao2z.onrender.com/adventures</a></li>
+                              <li><a href="https://qtrip-dynamic-ao2z.onrender.com/adventures/?city=${city}">https://qtrip-dynamic-ao2z.onrender.com/adventures/?city=${city}</a></li>
                               <br>
                               <ul>
                                 <li>bengaluru</li>
@@ -50,7 +50,7 @@ Some api endpoints => <ul>
                                 <li>paris</li>
                               </ul>
                               <br>
-                                <li><a href="https://qtrip-dynamic-tw.herokuapp.com/reservations">https://qtrip-dynamic-tw.herokuapp.com/reservations</a></li>
+                                <li><a href="https://qtrip-dynamic-ao2z.onrender.com/reservations">https://qtrip-dynamic-ao2z.onrender.com/reservations</a></li>
                       </ul>
 <br>
 Change the ${city} to city names given below to fetch the api requests
